@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Hello-Katgithub
-- 👀 I’m interested in data. I currently work in clinical researcdh and am working my way into becoming a research data analyst.
+- 👀 Junior Software Developer. I currently work in clinical research.
+- 💻 LaunchCode Web Development JavaScript & Java October 2022 Graduate.
+- 👩🏻‍💻 Knowledge in JavaScript, Java, Node, Angular, SpringBoot, Thymeleaf, HTML/CSS, and MySQL.
 - 🌱 I’m currently learning intermediate SQL and R.
 <!---
 Hello-Katgithub/Hello-Katgithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
