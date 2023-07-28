@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hello-Katgithub
-- 👀 Junior Software Developer. I currently work in clinical research.
+- 👀 Aspiring Junior Software Developer. I currently work in clinical research.
 - 💻 LaunchCode Web Development JavaScript & Java October 2022 Graduate.
 - 👩🏻‍💻 Knowledge in JavaScript, Java, Node, Angular, SpringBoot, Thymeleaf, HTML/CSS, and MySQL.
 - 🌱 I’m currently learning intermediate SQL and R.
